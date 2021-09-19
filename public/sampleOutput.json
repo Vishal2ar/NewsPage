@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "hindustantimes.com",
+            "title": "'India's concern inappropriate': Taliban say nothing wrong in China helping Afghanistan - Hindustan Times",
+            "description": "China can take part in the construction of Afghanistan and provide assistance in other essential sectors, Taliban spokesperson Suhail Shaheen said.  | World News",
+            "url": "https://www.hindustantimes.com/world-news/indias-concern-inappropriate-taliban-say-nothing-wrong-in-china-s-help-101631698510911.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/09/15/1600x900/e09cf882-ff29-11eb-a5c0-e2376e1e0c6b_1631698688144_1631698740315.jpg",
+            "publishedAt": "2021-09-15T09:44:58Z",
+            "content": "With the Taliban and China expressing willingness for cooperation, Taliban spokesperson Suhail Shaheen has recently said that there is nothing wrong in China helping Afghanistan under the Belt and Ro… [+1864 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "A month after Kabul’s fall, Taliban stares at humanitarian crisis - Al Jazeera English",
+            "description": "Daunting problems for the group as it seeks to convert its lightning military victory into a peacetime government.",
+            "url": "https://www.aljazeera.com/news/2021/9/15/a-month-after-kabuls-fall-taliban-stares-at-humanitarian-crisis",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/09/AP21256600830421.jpg?resize=1200%2C630",
+            "publishedAt": "2021-09-15T06:53:36Z",
+            "content": "A month after seizing Kabul, the Taliban is facing daunting problems as it seeks to convert its lightning military victory into a durable peacetime government.\r\nAfter four decades of war and the deat… [+4480 chars]"
+        }
+    ]
+}
